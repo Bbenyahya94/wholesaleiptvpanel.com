@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 500" role="img" aria-labelledby="title desc">
+  <title id="title">Wholesale IPTV Panel</title>
+  <desc id="desc">Stacked Wholesale IPTV Panel logo with a turquoise geometric W monogram</desc>
+  <rect width="640" height="500" rx="32" fill="#ffffff"/>
+  <g transform="translate(210 70) scale(1.72)" fill="none" stroke="#079fba" stroke-width="10" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M10 16h24l30 55 30-55h24L76 96H52Z"/>
+    <path d="M38 16 64 64 90 16"/>
+  </g>
+  <text x="320" y="330" text-anchor="middle" fill="#071426" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="38" font-weight="900" letter-spacing="2">WHOLESALE IPTV</text>
+  <text x="320" y="383" text-anchor="middle" fill="#079fba" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="31" font-weight="900" letter-spacing="12">PANEL</text>
+</svg>
